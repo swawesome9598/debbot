@@ -10,3 +10,5 @@ discord.js https://discord.js.org/#/
 ffmpeg https://ffmpeg.org/
 
 ytdl https://www.npmjs.com/package/ytdl
+
+opusscript https://www.npmjs.com/package/opusscript
