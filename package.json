@@ -1,0 +1,16 @@
+{
+  "name": "debbot",
+  "version": "1.0.0",
+  "description": "a discord bot that exists",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ishi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "opusscript": "0.0.6",
+    "ytdl-core": "^0.20.0"
+  }
+}
