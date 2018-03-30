@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const YTDL = require ("ytdl-core");
 
-const TOKEN = "NDA5ODU3MTIyNTUwMTUzMjE3.DVktkQ.5xwQCZhMT-VN_aUqiAke2e67lU4";
+const TOKEN = "";
 const PREFIX = "debbot!"
 
 var bot = new Discord.Client();
